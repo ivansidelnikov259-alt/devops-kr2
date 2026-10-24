@@ -1,3 +1,4 @@
+# KR2: Sidelnikov
 import os
 import socket
 
